@@ -2,9 +2,9 @@
 
 <h1 align=center> JS Rocketseat Challenge Excercises 📖 </h1>
 
-
+<div align="center">
 ![js](https://user-images.githubusercontent.com/52546292/96441082-494b8f80-11df-11eb-9fb9-363b0341d63b.png)
-
+</div>
     
 Exercicios do modulo 1 do curso de javaScript da Rocketseat
 
