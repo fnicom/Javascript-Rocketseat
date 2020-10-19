@@ -2,8 +2,9 @@
 
 > JS Rocketseat Challenge Excercises 📖
 
-<p align="center">This project is just the final exercises of each Rocketseat Javascript course module <a href="https://skylab.rocketseat.com.br/journey/starter">JavaScript Starter</a> 🎓
-</p>
+<h1 align="center">
+    <img alt="Starter" title="Javascript Starter"src=".github/logo.svg" width="200px" />
+</h1>
 
 Exercicios do modulo 1 do curso de javaScript da Rocketseat
 
