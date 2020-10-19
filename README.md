@@ -1,6 +1,6 @@
-<h1 align=center># Javascript-Rocketseat</h1>
+<h1 align=center> Javascript-Rocketseat</h1>
 
-<h1 align=center> JS Rocketseat Challenge Excercises 📖 </h1>
+<h2 align=center> JS Rocketseat Challenge Excercises 📖 </h2>
 
 <div align="center">
 Exercicios do modulo 1 do curso de javaScript da Rocketseat
