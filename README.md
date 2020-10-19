@@ -1,4 +1,4 @@
-# Javascript-Rocketseat
+<h1 align=center># Javascript-Rocketseat</h1>
 
 <h1 align=center> JS Rocketseat Challenge Excercises 📖 </h1>
 
