@@ -1,11 +1,11 @@
 # Javascript-Rocketseat
 
-> JS Rocketseat Challenge Excercises 📖
+<h1 align=center> > JS Rocketseat Challenge Excercises 📖 </h1>
 
-<h1 align="center">
-    <img alt="Starter" title="Javascript Starter"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsujeitoprogramador.com%2Fjavascript-como-ficou-tao-popular%2F&psig=AOvVaw2Dtpl53hskC2oGs5M3-xWy&ust=1603190648935000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi2geK8wOwCFQAAAAAdAAAAABAF" />
-</h1>
 
+![js](https://user-images.githubusercontent.com/52546292/96441082-494b8f80-11df-11eb-9fb9-363b0341d63b.png)
+
+    
 Exercicios do modulo 1 do curso de javaScript da Rocketseat
 
 <p align="center">
