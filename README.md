@@ -2,9 +2,8 @@
 
 > JS Rocketseat Challenge Excercises 📖
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+<p align="center">This project is just the final exercises of each Rocketseat Javascript course module <a href="https://skylab.rocketseat.com.br/journey/starter">JavaScript Starter</a> 🎓
+</p>
 
 Exercicios do modulo 1 do curso de javaScript da Rocketseat
 
